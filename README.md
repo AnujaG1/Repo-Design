@@ -1,12 +1,9 @@
-# Repo-Design
 <h1 align="center">Hi 👋, I'm Anuja Gyawali</h1>
 <h3 align="center">A passionate learner from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujag1&label=Profile%20views&color=0e75b6&style=flat" alt="anujag1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujag1" alt="anujag1" /></a> </p>
-
-- 🌱 I’m currently learning **ReacTJS, Mediapipe, OpenCV**
+- 🌱 I’m currently learning **ReactJS, Mediapipe, OpenCV**
 
 - 👯 I’m looking to collaborate on **awesome projects.**
 
